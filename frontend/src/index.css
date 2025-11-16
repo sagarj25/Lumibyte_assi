@@ -1,0 +1,6 @@
+/* Tailwind v4 usage */
+@import "tailwindcss";
+
+/* small helpers */
+html,body,#root { height: 100%; }
+body { -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; }
